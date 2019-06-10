@@ -85,16 +85,16 @@
         },
         {
             "name": "botman/driver-facebook",
-            "version": "1.9.4",
+            "version": "1.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/botman/driver-facebook.git",
-                "reference": "8071f777388de7cde8122a340acdab01694d517b"
+                "reference": "a02096c5b9dafddc3353e8c5eff060fcb004985f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/botman/driver-facebook/zipball/8071f777388de7cde8122a340acdab01694d517b",
-                "reference": "8071f777388de7cde8122a340acdab01694d517b",
+                "url": "https://api.github.com/repos/botman/driver-facebook/zipball/a02096c5b9dafddc3353e8c5eff060fcb004985f",
+                "reference": "a02096c5b9dafddc3353e8c5eff060fcb004985f",
                 "shasum": ""
             },
             "require": {
@@ -143,7 +143,7 @@
                 "facebook",
                 "facebook messenger"
             ],
-            "time": "2018-10-04T06:45:12+00:00"
+            "time": "2019-03-19T06:36:25+00:00"
         },
         {
             "name": "botman/driver-telegram",
