@@ -2629,26 +2629,26 @@
         },
         {
             "name": "spatie/geocoder",
-            "version": "3.4.0",
+            "version": "3.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/geocoder.git",
-                "reference": "bb9e9269aec001936dbece11797c689857031b90"
+                "reference": "7d6a8b4db48ef1ec66c28aaedb5bb53c72952e29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/geocoder/zipball/bb9e9269aec001936dbece11797c689857031b90",
-                "reference": "bb9e9269aec001936dbece11797c689857031b90",
+                "url": "https://api.github.com/repos/spatie/geocoder/zipball/7d6a8b4db48ef1ec66c28aaedb5bb53c72952e29",
+                "reference": "7d6a8b4db48ef1ec66c28aaedb5bb53c72952e29",
                 "shasum": ""
             },
             "require": {
                 "guzzlehttp/guzzle": "~6.0",
                 "illuminate/support": "^5.0",
-                "php": ">=7.0"
+                "php": "^7.2"
             },
             "require-dev": {
-                "phpunit/phpunit": "^6.4",
-                "vlucas/phpdotenv": "^2.4"
+                "phpunit/phpunit": "^8.0",
+                "vlucas/phpdotenv": "^3.0"
             },
             "type": "library",
             "extra": {
@@ -2685,7 +2685,7 @@
                 "location",
                 "map"
             ],
-            "time": "2019-01-24T10:17:37+00:00"
+            "time": "2019-05-31T10:37:55+00:00"
         },
         {
             "name": "spatie/macroable",
