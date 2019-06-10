@@ -323,16 +323,16 @@
         },
         {
             "name": "botman/tinker",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/botman/tinker.git",
-                "reference": "b60b354fe50617f4433b757db47e1620614110ab"
+                "reference": "861800abe3f715e91314babf5e75aea16622fcbc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/botman/tinker/zipball/b60b354fe50617f4433b757db47e1620614110ab",
-                "reference": "b60b354fe50617f4433b757db47e1620614110ab",
+                "url": "https://api.github.com/repos/botman/tinker/zipball/861800abe3f715e91314babf5e75aea16622fcbc",
+                "reference": "861800abe3f715e91314babf5e75aea16622fcbc",
                 "shasum": ""
             },
             "require": {
@@ -376,7 +376,7 @@
                 "bot",
                 "laravel"
             ],
-            "time": "2018-02-19T19:59:06+00:00"
+            "time": "2018-10-26T14:49:21+00:00"
         },
         {
             "name": "clue/stdio-react",
